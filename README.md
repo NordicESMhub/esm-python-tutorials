@@ -1,8 +1,5 @@
 # E-science tools for climate research - Climate science at high latitudes: Modeling and model evaluation
 
-
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
 **Context:**
 
 This course aims to teach in a Nordic framework the next generation of scientists to integrate different eScience tools and infrastructures to achieve a more holistic interpretation of the climate system and its components through model and data analysis. The focus of the course is on the application of eScience tools, but applied to climate and air quality research at high northern latitudes.  It is the second part of a series of three two-week graduate courses, open to Nordic graduate students and early career scientists, developed originally within the education program of the Nordic Centre of Excellence eSTICC (eScience Tools for Investigating Climate Change at High Northern Latitudes). 
