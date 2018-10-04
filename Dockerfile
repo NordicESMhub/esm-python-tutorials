@@ -1,4 +1,4 @@
-FROM quay.io/uninett/jupyterhub-singleuser:20180703-0ff1eb6
+FROM quay.io/uninett/jupyterhub-singleuser:20181004-da49cf0
 
 MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
 
@@ -6,7 +6,7 @@ MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
 USER notebook
 
 # Install requirements for Python 3
-ADD environment.yml environment.yml
+ADD jupyterhub_environment.yml jupyterhub_environment.yml
 
-RUN conda env update -n root -f environment.yml
+RUN conda env update -n root -f jupyterhub_environment.yml
 
