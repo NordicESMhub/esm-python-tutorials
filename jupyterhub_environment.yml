@@ -1,4 +1,4 @@
-name: NEGI-Andoya-workshop
+name: base
 
 channels:
   - conda-forge

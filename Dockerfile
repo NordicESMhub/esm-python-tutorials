@@ -8,5 +8,4 @@ USER notebook
 # Install requirements for Python 3
 ADD jupyterhub_environment.yml jupyterhub_environment.yml
 
-RUN conda env update -n root -f jupyterhub_environment.yml
-
+RUN conda env update -f jupyterhub_environment.yml
