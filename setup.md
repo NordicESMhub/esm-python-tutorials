@@ -251,7 +251,7 @@ you are ready to go as soon as the workshop begins.
 
 ### Windows - [Video tutorial][video-windows]
 
-1. Open [http://continuum.io/downloads][continuum-windows]
+1. Open [https://www.anaconda.com/downloads][continuum-windows]
    with your web browser.
 
 2. Download the Python 3 installer for Windows.
@@ -262,7 +262,7 @@ you are ready to go as soon as the workshop begins.
 
 ### Mac OS X - [Video tutorial][video-mac]
 
-1. Open [http://continuum.io/downloads][continuum-mac]
+1. Open [https://www.anaconda.com/downloads][continuum-mac]
    with your web browser.
 
 2. Download the Python 3 installer for OS X.
@@ -274,7 +274,7 @@ you are ready to go as soon as the workshop begins.
 Note that the following installation steps require you to work from the shell. 
 If you run into any difficulties, please request help before the workshop begins.
 
-1.  Open [http://continuum.io/downloads][continuum-linux] with your web browser.
+1.  Open [https://www.anaconda.com/downloads][continuum-linux] with your web browser.
 
 2.  Download the Python 3 installer for Linux.
 
@@ -335,10 +335,10 @@ $ python
 ~~~
 {: .language-bash}
 
-[anaconda]: https://www.continuum.io/anaconda
-[continuum-mac]: http://continuum.io/downloads#_macosx
-[continuum-linux]: http://continuum.io/downloads#_unix
-[continuum-windows]: http://continuum.io/downloads#_windows
+[anaconda]: https://www.anaconda.com/anaconda
+[continuum-mac]: https://www.anaconda.com/downloads#_macosx
+[continuum-linux]: https://www.anaconda.com/downloads#_unix
+[continuum-windows]: https://www.anaconda.com/downloads#_windows
 [jupyter]: http://jupyter.org/
 [jupyter-install]: http://jupyter.readthedocs.io/en/latest/install.html#optional-for-experienced-python-developers-installing-jupyter-with-pip
 [python]: https://python.org
