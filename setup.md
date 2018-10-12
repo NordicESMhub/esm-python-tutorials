@@ -241,7 +241,7 @@ To follow this lesson, you would need:
 [Python][python] is a popular language for scientific computing, and great for
 general-purpose programming as well. Installing all of its scientific packages
 individually can be a bit difficult, however, so we recommend the all-in-one
-installer [Anaconda][anaconda].
+installer [Anaconda](https://www.anaconda.com/).
 
 Regardless of how you choose to install it, please make sure you install Python
 version 3.6. Also, please set up your python environment at 
