@@ -305,7 +305,9 @@ If you run into any difficulties, please request help before the workshop begins
 ## Getting the Data
 
 Sample datasets created for this lesson can be downloaded by cloning pyaerocom-data repository: 
-[pyaerocom-data]().
+[pyaerocom-data](https://github.com/jgliss/pyaerocom-testdata).
+
+<span style="color:red">However, this repository is a **private** repository and you will not be able to clone it before the course.</span>
 
 In order to follow the presented material, you should launch a Jupyter 
 notebook in the root directory (see [Starting Python](#Starting-Python)).
