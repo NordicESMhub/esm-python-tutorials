@@ -353,10 +353,10 @@ To install additional Python packages/libraries, you need to open a Terminal, an
 
 
 ~~~
-$ conda env create -f jupyterhub_environment.yml
+$ conda env create -f environment.yml
 ~~~
 {: .language-bash}
 
-with  _jupyter_environment.yml_ available [here](https://raw.githubusercontent.com/NordicESMhub/esm-python-tutorials/gh-pages/jupyterhub_environment.yml).
+with  _environment.yml_ available [here](https://raw.githubusercontent.com/NordicESMhub/esm-python-tutorials/gh-pages/environment.yml).
 
 {% include links.md %}

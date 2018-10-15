@@ -1,0 +1,30 @@
+name: negi_course
+
+channels:
+  - conda-forge
+  - nordicesmhub
+  - defaults
+
+dependencies:
+  - python=3.6
+  - numpy >=1.11.0
+  - iris >=2.1.0
+  - xarray >=0.10.8
+  - pandas >=0.22.0
+  - cartopy >=0.16.0
+  - numpy >=1.14
+  - matplotlib >=2.1.2
+  - seaborn >=0.8.1
+  - geopy >=1.17.0
+  - basemap
+  - netcdf4
+  - cis
+  - bokeh
+  - pyaerocom
+  - jupyter
+  - ipykernel
+  - notebook >=5.6.0
+  - ipypublish
+  - scipy
+  - scikit-learn
+  - jupyterlab
