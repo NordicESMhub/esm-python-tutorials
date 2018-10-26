@@ -4,7 +4,7 @@ MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
 
 # Install packages
 USER root
-RUN apt-get update && apt-get install -y dvipng
+RUN apt-get update && apt-get install -y dvipng latexmk texlive 
 
 # Install other packages
 USER notebook
