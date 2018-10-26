@@ -23,6 +23,7 @@ dependencies:
   - pyaerocom
   - metpy
   - python-cdo
+  - cdo
   - jupyter
   - ipykernel
   - notebook >=5.6.0
