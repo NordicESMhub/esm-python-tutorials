@@ -25,6 +25,7 @@ dependencies:
   - python-cdo
   - cdo
   - sympy
+  - bibtexparser
   - jupyter
   - ipykernel
   - notebook >=5.6.0
