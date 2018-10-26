@@ -9,3 +9,6 @@ USER notebook
 ADD jupyterhub_environment.yml jupyterhub_environment.yml
 
 RUN conda env update -f jupyterhub_environment.yml
+
+RUN cp /opt/conda/lib/libhdf5.so.103 /opt/conda/lib/libhdf5.so.101
+
