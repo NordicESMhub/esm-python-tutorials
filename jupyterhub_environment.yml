@@ -31,3 +31,4 @@ dependencies:
   - scipy
   - scikit-learn
   - jupyterlab
+  - nc-time-axis
