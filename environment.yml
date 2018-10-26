@@ -21,6 +21,7 @@ dependencies:
   - cis
   - bokeh
   - pyaerocom
+  - metpy
   - jupyter
   - ipykernel
   - notebook >=5.6.0
