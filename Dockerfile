@@ -3,7 +3,7 @@ FROM quay.io/uninett/jupyterhub-singleuser:20181022-270e4f8
 MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
 
 # Install packages
-
+USER root
 RUN apt-get update && apt-get install -y dvipng
 
 # Install other packages
