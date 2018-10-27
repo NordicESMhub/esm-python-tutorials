@@ -38,3 +38,4 @@ dependencies:
   - scikit-learn
   - jupyterlab
   - nc-time-axis
+  - PyTables
