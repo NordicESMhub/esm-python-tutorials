@@ -37,3 +37,4 @@ dependencies:
   - scipy
   - scikit-learn
   - jupyterlab
+  - PyTables
