@@ -40,4 +40,3 @@ dependencies:
   - nc-time-axis
   - PyTables
   - xlrd
-  - tarfile
