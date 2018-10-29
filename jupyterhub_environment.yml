@@ -40,3 +40,4 @@ dependencies:
   - nc-time-axis
   - PyTables
   - xlrd
+  - ambhas
