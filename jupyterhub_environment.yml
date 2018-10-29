@@ -41,3 +41,4 @@ dependencies:
   - PyTables
   - xlrd
   - ambhas
+  - memory_profiler
