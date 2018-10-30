@@ -3,6 +3,7 @@ name: base
 channels:
   - conda-forge
   - nordicesmhub
+  - bioconda
   - defaults
 
 dependencies:
