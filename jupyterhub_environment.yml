@@ -42,3 +42,5 @@ dependencies:
   - xlrd
   - ambhas
   - memory_profiler
+  - plotly
+  - cufflinks
