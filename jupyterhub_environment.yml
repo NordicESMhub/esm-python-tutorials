@@ -2,7 +2,6 @@ name: base
 
 channels:
   - conda-forge
-  - esmvalgroup
   - nordicesmhub
   - bioconda
   - defaults
@@ -46,5 +45,3 @@ dependencies:
   - memory_profiler
   - plotly
   - cufflinks
-  - cmor
-  - esmvaltool
