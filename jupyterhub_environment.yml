@@ -2,6 +2,7 @@ name: base
 
 channels:
   - conda-forge
+  - pytorch
   - nordicesmhub
   - bioconda
   - defaults
@@ -45,3 +46,5 @@ dependencies:
   - memory_profiler
   - plotly
   - cufflinks
+  - pytorch
+  - torchvision
