@@ -2,6 +2,7 @@ name: negi_course
 
 channels:
   - conda-forge
+  - pytorch
   - nordicesmhub
   - defaults
 
