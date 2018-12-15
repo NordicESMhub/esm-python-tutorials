@@ -38,3 +38,4 @@ dependencies:
   - scikit-learn
   - jupyterlab
   - PyTables
+  - pytorch
