@@ -48,3 +48,11 @@ dependencies:
   - cufflinks
   - pytorch
   - torchvision
+  - ipyleaflet=0.9.2
+  - rasterio
+  - tqdm
+  - requests
+  - pillow
+  - branca
+  - geopandas
+
