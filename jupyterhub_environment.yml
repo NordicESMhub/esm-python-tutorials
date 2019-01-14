@@ -56,4 +56,9 @@ dependencies:
   - branca
   - geopandas
   - voila
+  - nodejs
+  - pythreejs
+  - pip:
+      - dask_labextension
+      - ipydatawidgets
 

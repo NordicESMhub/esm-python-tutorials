@@ -16,3 +16,6 @@ RUN conda env update -f jupyterhub_environment.yml
 
 RUN cp /opt/conda/lib/libhdf5.so.103 /opt/conda/lib/libhdf5.so.101
 
+RUN /opt/conda/bin/jupyter labextension install @jupyterlab/hub-extension
+RUN /opt/conda/bin/nbdime extensions --enable
+RUN /opt/conda/bin/jupyter labextension install jupyterlab-datawidgets nbdime-jupyterlab dask-labextension
