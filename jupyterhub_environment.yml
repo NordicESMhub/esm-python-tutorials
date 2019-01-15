@@ -58,6 +58,7 @@ dependencies:
   - voila
   - nodejs
   - pythreejs
+  - bqplot
   - pip:
       - dask_labextension
       - ipydatawidgets
