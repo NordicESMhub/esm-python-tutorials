@@ -62,4 +62,5 @@ dependencies:
   - pip:
       - dask_labextension
       - ipydatawidgets
+      - sidecar
 
