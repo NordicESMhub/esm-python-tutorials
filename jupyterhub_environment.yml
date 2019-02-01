@@ -59,7 +59,6 @@ dependencies:
   - nodejs
   - pythreejs
   - bqplot
-  - cv2
   - pip:
       - dask_labextension
       - ipydatawidgets
