@@ -60,6 +60,10 @@ dependencies:
   - pythreejs
   - bqplot
   - psyplot
+  - psy-maps 
+  - psyplot-gui 
+  - psy-reg 
+  - netCDF4
   - pip:
       - dask_labextension
       - ipydatawidgets
