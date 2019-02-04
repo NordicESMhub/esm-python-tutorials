@@ -64,7 +64,6 @@ dependencies:
   - psyplot-gui 
   - psy-reg 
   - netCDF4
-  - vaex
   - pip:
       - dask_labextension
       - ipydatawidgets
