@@ -64,6 +64,9 @@ dependencies:
   - psyplot-gui 
   - psy-reg 
   - netCDF4
+  - ncl
+  - pynio 
+  - pyngl
   - pip:
       - dask_labextension
       - ipydatawidgets
