@@ -67,6 +67,7 @@ dependencies:
   - ncl
   - pynio 
   - pyngl
+  - cdsapi 
   - pip:
       - dask_labextension
       - ipydatawidgets
