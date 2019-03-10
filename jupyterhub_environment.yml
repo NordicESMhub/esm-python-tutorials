@@ -68,6 +68,8 @@ dependencies:
   - pynio 
   - pyngl
   - cdsapi 
+  - geojsoncontour
+  - folium
   - pip:
       - dask_labextension
       - ipydatawidgets
