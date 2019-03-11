@@ -69,6 +69,7 @@ dependencies:
   - pyngl
   - cdsapi 
   - folium
+  - basemap-data-hires
   - pip:
       - dask_labextension
       - ipydatawidgets
