@@ -70,6 +70,8 @@ dependencies:
   - cdsapi 
   - folium
   - basemap-data-hires
+  - plotly
+  - rasterstats
   - pip:
       - dask_labextension
       - ipydatawidgets
